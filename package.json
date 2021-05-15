@@ -1,8 +1,8 @@
 {
     "name": "neondark-theme",
     "displayName": "Neon Dark Theme",
-    "description": "A good dark theme look to your VS Code editor, Pretty good than default xD",
-    "version": "1.0.0",
+    "description": "An eye-catching neon theme which powerup your code editor into awesome code editor",
+    "version": "1.0.1",
     "publisher": "Sudhan",
     "author": {
         "name": "SudhanPlayz",
@@ -16,6 +16,14 @@
     "engines": {
         "vscode": "^1.56.0"
     },
+    "keywords": [
+        "vsc-theme",
+        "neondark",
+        "neon",
+        "dark",
+        "theme",
+        "violet-theme"
+    ],
     "categories": [
         "Themes"
     ],
