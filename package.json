@@ -3,9 +3,14 @@
     "displayName": "Neon Dark Theme",
     "description": "A good dark theme look to your VS Code editor, Pretty good than default xD",
     "version": "1.0.0",
+    "publisher": "Sudhan",
     "author": {
         "name": "SudhanPlayz",
         "url": "https://github.com/SudhanPlayz"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SudhanPlayz/NeonDark-Theme"
     },
     "engines": {
         "vscode": "^1.56.0"
