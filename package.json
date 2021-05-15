@@ -12,6 +12,7 @@
         "type": "git",
         "url": "https://github.com/SudhanPlayz/NeonDark-Theme"
     },
+    "icon": "images/vsc.png",
     "engines": {
         "vscode": "^1.56.0"
     },
