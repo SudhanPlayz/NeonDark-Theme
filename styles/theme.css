@@ -1,0 +1,21 @@
+/* TODO: Inject CSS and make it work */
+
+/* Minimize Icon */
+#workbench\.parts\.titlebar > div.window-controls-container > div.window-icon.window-minimize.codicon.codicon-chrome-minimize{
+    background: #fff;
+}
+
+/* Maximised already so this for restoring */
+#workbench\.parts\.titlebar > div.window-controls-container > div.window-icon.window-max-restore.codicon.codicon-chrome-restore{
+    background: #fff;
+}
+
+/* Maximize - Just square ;-;*/
+#workbench\.parts\.titlebar > div.window-controls-container > div.window-icon.window-max-restore.codicon.codicon-chrome-maximize{
+    background: #fff;
+}
+
+/* Exit/Quit */
+#workbench\.parts\.titlebar > div.window-controls-container > div.window-icon.window-close.codicon.codicon-chrome-close{
+    background: #fff;
+}

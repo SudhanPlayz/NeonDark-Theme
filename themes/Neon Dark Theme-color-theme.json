@@ -19,7 +19,11 @@
 		"tab.activeForeground": "#a148f0",
 		"tab.inactiveForeground": "#ffffff9c",
 		"tab.inactiveBackground": "#1a171e",
-		"editor.selectionBackground": "#6b3ea7"
+		"editor.selectionBackground": "#6b3ea7",
+		"statusBar.background": "#7000ff",
+		"editorGroupHeader.tabsBackground": "#1a171e",
+		"notifications.background": "#1a171e",
+		"button.background": "#7000ff"
 	},
 	"tokenColors": [
 		{
