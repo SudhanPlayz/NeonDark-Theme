@@ -8,7 +8,7 @@
   <p align="center">
     An eye-catching neon theme which powerup your code editor into awesome code editor
     <br />
-    <a href="https://github.com/SudhanPlayz/NeonDark-Theme/blob/master/images/Screenshot.png?raw=true"><strong>Install »</strong></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=Sudhan.neondark-theme"><strong>Install »</strong></a>
     <br />
     <br />
     <a href="https://github.com/SudhanPlayz/NeonDark-Theme/issues">Report Bug</a>
@@ -39,7 +39,7 @@
 </details>
 
 ## About The Project
-![Screenshot](https://github.com/SudhanPlayz/NeonDark-Theme/blob/master/images/Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/SudhanPlayz/NeonDark-Theme/master/images/Screenshot.png)
 
 ### Built With
 * [VS Code](https://code.visualstudio.com)
