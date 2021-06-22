@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/SudhanPlayz/NeonDark-Theme">
-    <img src="https://github.com/SudhanPlayz/NeonDark-Theme/blob/master/images/vsc.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/SudhanPlayz/NeonDark-Theme/blob/master/images/vsc.png?raw=true" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Neon Dark - VSC Theme</h3>
@@ -8,7 +8,7 @@
   <p align="center">
     An eye-catching neon theme which powerup your code editor into awesome code editor
     <br />
-    <a href="https://github.com/SudhanPlayz/NeonDark-Theme/blob/master/images/Screenshot.png"><strong>Install »</strong></a>
+    <a href="https://github.com/SudhanPlayz/NeonDark-Theme/blob/master/images/Screenshot.png?raw=true"><strong>Install »</strong></a>
     <br />
     <br />
     <a href="https://github.com/SudhanPlayz/NeonDark-Theme/issues">Report Bug</a>

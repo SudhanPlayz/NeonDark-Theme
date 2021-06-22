@@ -2,11 +2,14 @@
     "name": "neondark-theme",
     "displayName": "Neon Dark Theme",
     "description": "An eye-catching neon theme which powerup your code editor into awesome code editor",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "publisher": "Sudhan",
     "author": {
         "name": "SudhanPlayz",
         "url": "https://github.com/SudhanPlayz"
+    },
+    "scripts": {
+        "lint": "eslint . --ext .js"
     },
     "repository": {
         "type": "git",
@@ -16,6 +19,7 @@
     "engines": {
         "vscode": "^1.56.0"
     },
+    "main": "src/index.js",
     "keywords": [
         "vsc-theme",
         "neondark",
@@ -27,6 +31,13 @@
     "categories": [
         "Themes"
     ],
+    "activationEvents": [
+        "onStartupFinished"
+    ],
+    "galleryBanner": {
+        "color": "#7000ff",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
@@ -35,5 +46,8 @@
                 "path": "./themes/Neon Dark Theme-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "eslint": "^7.26.0"
     }
 }
