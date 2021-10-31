@@ -2,8 +2,9 @@
     "name": "neondark-theme",
     "displayName": "Neon Dark Theme",
     "description": "An eye-catching neon theme which powerup your code editor into awesome code editor",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "publisher": "Sudhan",
+    "browser": "./src/index.js",
     "author": {
         "name": "SudhanPlayz",
         "url": "https://github.com/SudhanPlayz"
