@@ -1,5 +1,5 @@
 const vscode = require("vscode")
-const LocalStorageService = require("./services/LocalStorageService")
+//const LocalStorageService = require("./services/LocalStorageService")
 
 module.exports = {
     /**
@@ -7,14 +7,14 @@ module.exports = {
      * @param {vscode.ExtensionContext} context 
      */
     activate: async (context) => {
-        const lts = new LocalStorageService(context.workspaceState)
+        //const lts = new LocalStorageService(context.workspaceState)
 
-        let isAsked = lts.getValue("rating")
+        //let isAsked = lts.getValue("rating")
 
         if(!isAsked){
-            let Clicked = await vscode.window.showInformationMessage("Thank you for installing Neon Dark Theme", "Give a star 🌟");
-            if(Clicked && Clicked.startsWith("Give"))vscode.env.openExternal("https://github.com/SudhanPlayz/NeonDark-Theme")
-            lts.setValue("rating", true)
+            //let Clicked = await vscode.window.showInformationMessage("Thank you for installing Neon Dark Theme", "Give a star 🌟");
+            //if(Clicked && Clicked.startsWith("Give"))vscode.env.openExternal("https://github.com/SudhanPlayz/NeonDark-Theme")
+            //lts.setValue("rating", true)
         }
     },
 }
