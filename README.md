@@ -39,27 +39,34 @@
 </details>
 
 ## About The Project
+
 ![Screenshot](https://raw.githubusercontent.com/SudhanPlayz/NeonDark-Theme/master/images/Screenshot.png)
 
 ### Built With
-* [VS Code](https://code.visualstudio.com)
+
+- [VS Code](https://code.visualstudio.com)
 
 ## Getting Started
+
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
+
 This is an example of how to list things you need to use the software and how to install them.
 
 - Get vs code
 - Internet to download ;-;
 
 ### Installation
+
 Download and install it from [VSC Marketplace](https://marketplace.visualstudio.com/items?itemName=Sudhan.neondark-theme) <3
 
 ## Roadmap
+
 See the [open issues](https://github.com/SudhanPlayz/NeonDark-Theme/issues) for a list of proposed features (and known issues).
 
 ## Contributing
+
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
@@ -69,4 +76,5 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 ## License
+
 Distributed under the MIT License. See `LICENSE` for more information.
