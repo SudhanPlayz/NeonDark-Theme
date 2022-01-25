@@ -2,7 +2,7 @@
   "name": "neondark-theme",
   "displayName": "Neon Dark Theme",
   "description": "An eye-catching neon theme which powerup your code editor into awesome code editor",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "publisher": "Sudhan",
   "browser": "./src/index.js",
   "author": {
