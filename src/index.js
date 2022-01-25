@@ -7,7 +7,7 @@ module.exports = {
    * @param {vscode.ExtensionContext} context
    */
   activate: async (context) => {
-    db = new db(context.workspaceState);
+    /*db = new db(context.workspaceState);
 
     let rating = db.get("rating");
 
@@ -22,5 +22,6 @@ module.exports = {
           "https://github.com/SudhanPlayz/NeonDark-Theme"
         );
     }
+    */
   },
 };
