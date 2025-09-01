@@ -1,8 +1,8 @@
 {
   "name": "neondark-theme",
   "displayName": "Neon Dark Theme",
-  "description": "An eye-catching neon theme which powerup your code editor into awesome code editor",
-  "version": "1.2.1",
+  "description": "A stunning neon-inspired dark theme that transforms your VS Code with vibrant syntax highlighting and modern aesthetics",
+  "version": "1.3.0",
   "publisher": "Sudhan",
   "browser": "./src/index.js",
   "author": {
@@ -46,7 +46,17 @@
         "uiTheme": "vs-dark",
         "path": "./themes/Neon Dark Theme-color-theme.json"
       }
-    ]
+    ],
+    "configuration": {
+      "title": "Neon Dark Theme",
+      "properties": {
+        "editor.fontFamily": {
+          "type": "string",
+          "default": "'JetBrains Mono', monospace",
+          "description": "Controls the font family used in the editor. Set to JetBrains Mono for optimal experience with this theme."
+        }
+      }
+    }
   },
   "dependencies": {
     "eslint": "^7.26.0"

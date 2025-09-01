@@ -52,14 +52,18 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-
-- Get vs code
-- Internet to download ;-;
+- VS Code installed
+- Internet connection for installation
 
 ### Installation
 
 Download and install it from [VSC Marketplace](https://marketplace.visualstudio.com/items?itemName=Sudhan.neondark-theme) <3
+
+### Recommended Font
+
+For the best experience with Neon Dark Theme, we recommend using **JetBrains Mono** font. The extension sets it as the default editor font, but you can change it in VS Code settings if preferred.
+
+Download JetBrains Mono from [jetbrains.com/lp/mono](https://www.jetbrains.com/lp/mono/)
 
 ## Roadmap
 

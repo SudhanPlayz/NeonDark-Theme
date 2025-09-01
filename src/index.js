@@ -1,5 +1,5 @@
 const vscode = require("vscode");
-let db = require("./db");
+const LocalStorageService = require("./db");
 
 module.exports = {
   /**
@@ -7,21 +7,20 @@ module.exports = {
    * @param {vscode.ExtensionContext} context
    */
   activate: async (context) => {
-    /*db = new db(context.workspaceState);
+    const db = new LocalStorageService(context.globalState);
 
     let rating = db.get("rating");
 
     if (!rating || rating !== "ok") {
       db.set("rating", "ok");
       let Clicked = await vscode.window.showInformationMessage(
-        "Thank you for installing Neon Dark Theme",
-        "Give a star 🌟"
+        "Thanks for installing Neon Dark Theme! Help it grow by starring the repo",
+        "⭐ Star on GitHub"
       );
-      if (Clicked && Clicked.startsWith("Give"))
+      if (Clicked && Clicked.includes("Star"))
         vscode.env.openExternal(
           "https://github.com/SudhanPlayz/NeonDark-Theme"
         );
     }
-    */
   },
 };
