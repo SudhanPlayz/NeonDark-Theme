@@ -4,6 +4,8 @@
   "author": "SudhanPlayz",
   "colors": {
     "editor.background": "#120e16",
+    "editorCursor.foreground": "#ffffff",
+    "editorGroup.border": "#ffffff",
     "activityBar.background": "#120e16",
     "tab.activeBackground": "#120e16",
     "activityBarBadge.background": "#7000ff",
@@ -411,7 +413,7 @@
       "name": "Underline",
       "scope": ["underline"],
       "settings": {
-        "text-decoration": "underline"
+        "fontStyle": "underline"
       }
     },
     {
@@ -425,16 +427,14 @@
       "name": "Invalid Deprecated",
       "scope": ["invalid.deprecated"],
       "settings": {
-        "foreground": "#523D14",
-        "background": "#E0C285"
+        "foreground": "#523D14"
       }
     },
     {
       "name": "Invalid Illegal",
       "scope": ["invalid.illegal"],
       "settings": {
-        "foreground": "white",
-        "background": "#E05252"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -534,7 +534,7 @@
       "name": "Source Css Property Name,source Css Property Value",
       "scope": ["source.css property-name", "source.css property-value"],
       "settings": {
-        "foreground": "#828997"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -644,7 +644,7 @@
       "name": "Source Gfm Markup",
       "scope": ["source.gfm markup"],
       "settings": {
-        "-webkit-font-smoothing": "auto"
+        "foreground": "#ABB2BF"
       }
     },
     {
@@ -866,7 +866,7 @@
       "name": "Source Ruby Constant Other Symbol > Punctuation",
       "scope": ["source.ruby constant.other.symbol > punctuation"],
       "settings": {
-        "foreground": "inherit"
+        "foreground": "#ABB2BF"
       }
     },
     {
