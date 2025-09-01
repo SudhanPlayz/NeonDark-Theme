@@ -69,6 +69,11 @@ Download JetBrains Mono from [jetbrains.com/lp/mono](https://www.jetbrains.com/l
 
 See the [open issues](https://github.com/SudhanPlayz/NeonDark-Theme/issues) for a list of proposed features (and known issues).
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sudhanplayz/neondark-theme&type=Date)](https://www.star-history.com/#sudhanplayz/neondark-theme&Date)
+
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
